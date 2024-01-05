@@ -9,8 +9,6 @@ Education: Queens University CS <img src="https://github.com/JosephLiao542211/Jo
 
 - **Queens University**
   - Major: Computer Science
-  - ![Queens University Logo](https://github.com/JosephLiao542211/JosephLiao542211/assets/100002111/05e7857d-e7ba-44a3-95b7-49fd6e9f8076) 
-
 ## Seeking Internships
 
 I am currently looking for internships in the field of Computer Science. If you have any opportunities or would like to connect, feel free to reach out.
