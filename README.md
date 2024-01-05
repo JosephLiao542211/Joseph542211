@@ -3,9 +3,9 @@
 
 
 ## Education
-<img src="https://github.com/JosephLiao542211/JosephLiao542211/assets/100002111/05e7857d-e7ba-44a3-95b7-49fd6e9f8076" alt="queens-university-logo" width="50" height="50" align="right">
-- **Queens University** 
-  - Major: Computer Science, Bachelor of Computing (Honours) 
+
+- **Queens University** <img src="https://github.com/JosephLiao542211/JosephLiao542211/assets/100002111/05e7857d-e7ba-44a3-95b7-49fd6e9f8076" alt="queens-university-logo" >
+  - Major: Computer Science, Bachelor of Computing (Honours) >width="50" height="50" align="right"
 ## Seeking Internships
 
 I am currently looking for internships in the field of Computer Science. If you have any opportunities or would like to connect, feel free to reach out.
