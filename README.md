@@ -1,6 +1,6 @@
 # 👋Hello, I'm Joseph!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLiao542211&layout=donut&exclude_repo=GMTK2023github-readme-stats&show_icons=true&bg_color=00000000&text_color=FFFFFF)
-
+![4fddd5f8c2a85275f0fde4c6851b092f](https://github.com/JosephLiao542211/JosephLiao542211/assets/100002111/e74dfe07-daf6-4f41-a468-ba302273108e)
 
 ## Education
 
@@ -9,6 +9,7 @@
 ## Seeking Internships
 
 I am currently looking for internships in the field of Computer Science. If you have any opportunities or would like to connect, feel free to reach out.
+
 
 ## Connect with Me
 - Website: JosephLiao.ca
