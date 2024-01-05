@@ -3,8 +3,8 @@
 
 
 ## Education
-
-- **Queens University** <img src="https://github.com/JosephLiao542211/JosephLiao542211/assets/100002111/05e7857d-e7ba-44a3-95b7-49fd6e9f8076" alt="queens-university-logo" width="50" height="50" align="right">
+<img src="https://github.com/JosephLiao542211/JosephLiao542211/assets/100002111/05e7857d-e7ba-44a3-95b7-49fd6e9f8076" alt="queens-university-logo" width="50" height="50" align="right">
+- **Queens University** 
   - Major: Computer Science, Bachelor of Computing (Honours) 
 ## Seeking Internships
 
