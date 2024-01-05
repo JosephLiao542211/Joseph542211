@@ -1,6 +1,7 @@
 # 👋Hello, I'm Joseph!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLiao542211&layout=donut&exclude_repo=GMTK2023github-readme-stats&show_icons=true&bg_color=00000000&text_color=FFFFFF)
-![ezgif-7-7b31e08023](https://github.com/JosephLiao542211/JosephLiao542211/assets/100002111/3f961027-cc75-4a24-b5c5-21e16fe05c43)
+![ezgif-7-7b31e08023](https://github.com/JosephLiao542211/JosephLiao542211/assets/100002111/a0236897-b2ca-48cb-b3ea-5ff9e6de8cf0)
+
 
 
 
