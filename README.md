@@ -18,7 +18,7 @@ I am currently looking for internships in the field of Computer Science. If you 
 
 
 ## Connect with Me
-- Website: JosephLiao.ca
+- Website: JosephLiao.com
 - LinkedIn: [Joseph Liao](https://www.linkedin.com/in/joseph-liao-681b3a273/)
 - Email: joseph.liao1018@gmail.com
 
